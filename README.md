@@ -5,4 +5,5 @@ Hello, my name is Rowan K. O'Hara. I am a recent graduate from Virginia Commonwe
 - Check out my website [here](https://rowankohara.github.io/) 💻
 - Check out my Twitter [here](https://twitter.com/rowankohara) 🐦
 - Check out my LinkedIn [here](https://www.linkedin.com/in/rowankohara/) 🖥
+- Check out my Open Science Framework (OSF) [here](https://osf.io/kqaen/) 🦠
 - Check out POP-GEM Lab's website [here](https://www.pop-gem-lab.com/) 🧬
